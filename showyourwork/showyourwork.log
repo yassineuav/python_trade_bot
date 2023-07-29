@@ -1,0 +1,6 @@
+"EventType","InsertText","DeleteText","SourceLocation","ClientTimestamp","CodeStateSection","ToolInstances","EditType","X-Metadata","CodeStateID","X-Compilable","EventID","SubjectID","AssignmentID"
+"X-Action","ShowYourWork Init","","","1690669568522",,"1.1.5 for 2021-2022 @t1",,"Init",,,,,
+"X-Action","Backspace",,,"1690669634653","main.py","1.1.5 for 2021-2022 @t1",,"Backspace",,,,,
+"File.Edit","
+","","0","1690669634653","main.py","1.1.5 for 2021-2022 @t1","Insert",,,,,,
+"X-Action","Backspace",,,"1690669635086","main.py","1.1.5 for 2021-2022 @t1",,"Backspace",,,,,
